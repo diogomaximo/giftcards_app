@@ -10,13 +10,6 @@
 
 ![Alt text](dribbble.png?raw=true)
 
-
-- Implementation
-
-![Alt text](cards.png?raw=true)
-
-
-
 References:
 https://dribbble.com/shots/7444197-Personalized-Gift-cards
 
