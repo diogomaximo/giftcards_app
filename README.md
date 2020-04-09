@@ -1,11 +1,11 @@
 # giftcards_app
 
-![Alt text](cards.gif?raw=true)
-
-
 ## Getting Started
 
-# This project is a proof of concept of this dribbble design using flutter.
+### This project is a proof of concept of this dribbble design using flutter.
+
+![Alt text](cards.gif?raw=true)
+
 - Dribble design
 
 ![Alt text](dribbble.png?raw=true)
