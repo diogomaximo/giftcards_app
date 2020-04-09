@@ -88,7 +88,7 @@ class CircleSeparatorPainter extends CustomPainter {
 
   @override
   void paint(Canvas canvas, Size size) {
-    double circleXPosition = 283;
+    double circleXPosition = 315;
 
     if (this.isInitial){
       circleXPosition = 0;
